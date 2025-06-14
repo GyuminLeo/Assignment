@@ -33,11 +33,11 @@ This project demonstrates a turn-based dungeon game where the player explores a 
 
 To run the game:
 
-1. Save the provided Python file as `202521116_이규민.py`.
+1. Save the provided Python file as `main.py`.
 2. Open a terminal and run the following command:
 
 ```bash
-python 202521116_이규민.py
+python main.py
 ```
 
 ---
@@ -151,11 +151,12 @@ The following Python programming topics are implemented in the game:
 
 # 실행 방법
 
-제공된 Python 소스를 202521116_이규민.py로 저장하세요.
+제공된 Python 소스를 main.py로 저장하세요.
 
 터미널에서 아래 명령어로 실행하세요:
-
-    python 202521116_이규민.py
+```bash
+    python main.py
+```
 
 ---
 # 조작 방법
@@ -201,13 +202,13 @@ The following Python programming topics are implemented in the game:
 
 다음은 게임에 구현된 파이썬 프로그래밍 주제입니다:
 
-🔹 파이썬 기초 및 핵심 문법
+🔹 파이썬 지가 및 기본 문법
 
     함수 (def): draw_map(), move_player() 등과 같은 함수를 통해 모듈화된 코드 구조를 사용합니다.
 
     출력문 (print): 디버깅 및 메시지 출력을 위한 콘솔 피드백을 제공합니다.
 
-🔹 변수, 컬렉션, 연산
+🔹 컬렉션자료와 변수 및 연산
 
     변수: TILE_SIZE, game_state 등 게임의 상태와 설정 값을 정의하는 데 사용됩니다.
 
@@ -221,11 +222,11 @@ The following Python programming topics are implemented in the game:
 
     if, elif, else 조건문을 통해 상호작용 로직을 제어합니다.
 
-🔹 리스트와 for 반복문
+🔹 리스트연산과 for 반복문
 
     for 반복문을 사용하여 맵의 행 및 객체들을 순회합니다.
 
-🔹 while 루프와 터틀 그래픽
+🔹 while반복과 거북이 그래픽
 
     turtle 모듈을 활용하여 맵 렌더링 및 캐릭터 등의 그래픽을 처리합니다.
 
