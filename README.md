@@ -155,7 +155,7 @@ The following Python programming topics are implemented in the game:
 
 터미널에서 아래 명령어로 실행하세요:
 ```bash
-    python main.py
+python main.py
 ```
 
 ---
