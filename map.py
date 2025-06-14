@@ -1,7 +1,7 @@
 from PIL import Image
 
 # Load map image
-img = Image.open("b9ce34b2-09dd-421d-8d88-1daf4ab7be75.png")
+img = Image.open("map.png")
 
 # Grid size based on visible tile size (adjust as needed)
 TILE_SIZE = 32  # Dungeon tiles appear around 32x32 px
